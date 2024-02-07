@@ -14,7 +14,9 @@
   ## :wave: About Me:
   
   - I'm a Full-Stack Software Engineer and love coding for Front-End and Back-End.
+    
   - I'm passionate about traveling the world and watching anime. Some of my favorite countries include Japan, Switzerland, and Norway!
+    
   - In my free time, I also enjoy making art, reading, writing, and playing video games.
 
 ---
@@ -30,7 +32,13 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 </div>
 
+---
 
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevinaG007&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinaG007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
